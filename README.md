@@ -1,9 +1,6 @@
 <div align="center">
   <img height="150" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.gif" alt="Welcome Animation"/>
 </div>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6842FF&random=false&width=435&lines=Hi!+I'm+Pierre+Maysar+Alzherey+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6842FF&random=false&width=435&lines=Hi!+I'm+Pierre+Maysar+Alzherey+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
