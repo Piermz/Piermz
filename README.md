@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Windows-PC-6842FF?style=flat-square&logo=windows&logoColor=white&labelColor=282c34"/>
   <img src="https://img.shields.io/badge/Always Learning-New Tech-6842FF?style=flat-square&logo=google&logoColor=white&labelColor=282c34"/>
   <img src="https://img.shields.io/badge/Open%20Source-Supporter-6842FF?style=flat-square&logo=open-source-initiative&logoColor=white&labelColor=282c34"/>
-  <img src="https://img.shields.io/badge/Certificate-2 Sertikom-6842FF?style=flat-square&logo=thealgorithms&logoColor=white&labelColor=282c34"/>
 </p>
 <!-- <p align="center">
   <a href="https://github.com/Piermz">
