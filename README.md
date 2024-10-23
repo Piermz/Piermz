@@ -14,6 +14,15 @@
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=6842FF&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DPiermz&longCache=true" />
   <img src="https://komarev.com/ghpvc/?username=Piermz&color=6842FF&style=flat-square&label=Profile+Views"/>
 </p>
+<p align="center">
+  <a href="https://github.com/Piermz">
+    <img src="https://img.shields.io/github/followers/Piermz?label=Followers&style=social" alt="GitHub followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Piermz&color=blueviolet" alt="Profile views">
+  <a href="https://github.com/Piermz">
+    <img src="https://img.shields.io/github/stars/Piermz?style=social" alt="GitHub stars">
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Piermz&theme=tokyonight&no-frame=true&row=1&margin-w=30&no-bg=true" />
