@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img width="100%" height="auto" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
+</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6842FF&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Pierre+Alzherey;A+Passionate+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
@@ -23,7 +25,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<div >
+<div align="center">
   <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
   
   ```javascript
@@ -58,15 +60,8 @@
 <h2 align="center">⚡ Current Stats</h2>
 
 <div align="center">
-  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Piermz&show_icons=true&theme=transparent&hide_border=true&title_color=6842FF&text_color=FFFFFF&icon_color=6842FF&bg_color=0D1117" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piermz&layout=compact&theme=transparent&hide_border=true&title_color=6842FF&text_color=FFFFFF&bg_color=0D1117" />
 </div>
 
 <div align="center">
