@@ -9,10 +9,25 @@
 </div>
 
 <br>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=6842FF&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DPiermz&longCache=true"/>
+  <img src="https://komarev.com/ghpvc/?username=Piermz&color=6842FF&style=flat-square&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/stars/Piermz?label=Stars&style=flat-square&color=6842FF&labelColor=282c34"/>
+  <img src="https://img.shields.io/github/commit-activity/m/Piermz/Piermz?label=Commits&style=flat-square&color=6842FF&labelColor=282c34"/>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=6842FF&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DPiermz&longCache=true" />
-  <img src="https://komarev.com/ghpvc/?username=Piermz&color=6842FF&style=flat-square&label=Profile+Views"/>
+  <img src="https://img.shields.io/badge/Focus-Web Development-6842FF?style=flat-square&logoColor=white&labelColor=282c34"/>
+  <img src="https://img.shields.io/badge/From-Indonesia-6842FF?style=flat-square&logo=google-maps&logoColor=white&labelColor=282c34"/>
+  <img src="https://img.shields.io/badge/Status-Student-6842FF?style=flat-square&logo=saved&logoColor=white&labelColor=282c34"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-6842FF?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=282c34"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-PC-6842FF?style=flat-square&logo=windows&logoColor=white&labelColor=282c34"/>
+  <img src="https://img.shields.io/badge/Always Learning-New Tech-6842FF?style=flat-square&logo=google&logoColor=white&labelColor=282c34"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Supporter-6842FF?style=flat-square&logo=open-source-initiative&logoColor=white&labelColor=282c34"/>
+  <img src="https://img.shields.io/badge/Certificate-2 Sertikom-6842FF?style=flat-square&logo=thealgorithms&logoColor=white&labelColor=282c34"/>
 </p>
 <!-- <p align="center">
   <a href="https://github.com/Piermz">
