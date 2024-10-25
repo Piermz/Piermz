@@ -1,80 +1,136 @@
+
+
 <h1 align="center">
-  Hi there, I'm Pierre Alzherey 👋
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6842FF&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Pierre+Alzherey;A+Passionate+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+<br>
 <p align="center">
-  Web Developer | Student | Open Source Enthusiast
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=6842FF&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DPiermz&longCache=true"/>
+  <img src="https://komarev.com/ghpvc/?username=Piermz&color=6842FF&style=flat-square&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/stars/Piermz?label=Stars&style=flat-square&color=6842FF&labelColor=282c34"/>
+  <img src="https://img.shields.io/github/commit-activity/m/Piermz/Piermz?label=Commits&style=flat-square&color=6842FF&labelColor=282c34"/>
 </p>
 
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Piermz?style=social)](https://github.com/Piermz)
-  [![Profile views](https://komarev.com/ghpvc/?username=Piermz&color=6842FF&style=flat-square)](https://github.com/Piermz)
-  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web Development-6842FF?style=flat-square&logoColor=white&labelColor=282c34"/>
+  <img src="https://img.shields.io/badge/From-Indonesia-6842FF?style=flat-square&logo=google-maps&logoColor=white&labelColor=282c34"/>
+  <img src="https://img.shields.io/badge/Status-Student-6842FF?style=flat-square&logo=saved&logoColor=white&labelColor=282c34"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-6842FF?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=282c34"/>
+</p>
 
-## About Me
-
-```typescript
-const pierre = {
-  location: "Indonesia 🇮🇩",
-  role: "Web Developer",
-  education: "Student",
-  interests: ["Web Development", "UI/UX", "Open Source"],
-  currentlyLearning: ["React", "Next.js", "TypeScript"],
-  funFact: "Turning coffee into code ☕"
-};
-```
-
-## Tech Stack
-
-<div align="center">
-
-  <!-- Languages -->
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  
-  <!-- Frameworks/Libraries -->
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  
-  <!-- Styling -->
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  
-  <!-- Database -->
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-## GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-PC-6842FF?style=flat-square&logo=windows&logoColor=white&labelColor=282c34"/>
+  <img src="https://img.shields.io/badge/Always Learning-New Tech-6842FF?style=flat-square&logo=google&logoColor=white&labelColor=282c34"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Supporter-6842FF?style=flat-square&logo=open-source-initiative&logoColor=white&labelColor=282c34"/>
+</p>
+<!-- <p align="center">
+  <a href="https://github.com/Piermz">
+    <img src="https://img.shields.io/github/followers/Piermz?label=Followers&style=social" alt="GitHub followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Piermz&color=blueviolet" alt="Profile views">
+  <a href="https://github.com/Piermz">
+    <img src="https://img.shields.io/github/stars/Piermz?style=social" alt="GitHub stars">
+  </a>
+</p> -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piermz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6842FF&icon_color=6842FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piermz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6842FF"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Piermz&theme=tokyonight&no-frame=true&row=1&margin-w=30&no-bg=true" />
+</div>
+
+<br>
+
+<h2 align="center">🚀 About Me</h2>
+
+<div>
+  
+  ```javascript
+  const pierre = {
+    pronouns: "he/him",
+    status: "Student & Developer",
+    location: "Indonesia",
+    focus: "Web Development",
+    currentlyLearning: [
+      "React", "Laravel", "Tailwind"
+    ],
+    achievements: "2 Sertikom Certificates",
+    passions: [
+      "Coding", "Web Design",
+      "Problem Solving", "Innovation"
+    ],
+    funFact: "I love turning coffee into code! ☕️"
+  };
+  ```
+</div>
+
+<br>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<div align="center">
+  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
+<div align="center">
+  <img src="" />
+</div>
+
+<br>
+
+<h2 align="center">⚡ Current Stats</h2>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Piermz&show_icons=true&theme=transparent&hide_border=true&title_color=6842FF&text_color=FFFFFF&icon_color=6842FF&bg_color=0D1117" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piermz&layout=compact&theme=transparent&hide_border=true&title_color=6842FF&text_color=FFFFFF&bg_color=0D1117" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=Piermz&theme=tokyonight&hide_border=true&background=0D1117&stroke=6842FF&ring=6842FF&fire=6842FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=777777"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=Piermz&theme=transparent&hide_border=true&ring=6842FF&fire=6842FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&background=0D1117" />
 </div>
 
-## Let's Connect
+<br>
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
   <a href="https://github.com/Piermz">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&border=6842FF" />
   </a>
   <a href="https://www.linkedin.com/in/pier-m-3189282b0/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&border=6842FF" />
   </a>
   <a href="https://www.instagram.com/pierrm_/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&border=6842FF" />
   </a>
   <a href="https://discord.com/users/756004084410089472">
-    <img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=0D1117&border=6842FF" />
+  </a>
+  <a href="https://open.spotify.com/user/31boyzy3gwr2rtm2q7e7xdyrwhpm">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&color=0D1117&border=6842FF" />
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6842FF&height=100&section=footer"/>
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6842FF&height=100&section=footer"/>
+</div>
+
+<!--
+Random Dev Quote removed as it was breaking the modern dark theme aesthetic.
+Added matrix animation at top and wave animation at bottom instead.
+-->
